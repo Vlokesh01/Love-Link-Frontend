@@ -21,3 +21,19 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+lovelink
+     backend 
+        node_modules
+        src 
+        .env
+        package-lock.json
+        package.json
+    frontend
+        node_modules
+        public
+        src
+        .env
+        package-lock.json
+        package.json
